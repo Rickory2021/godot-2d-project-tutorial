@@ -4,3 +4,5 @@ res://survivors_game.tscn
 res://pine_tree.tscn
 res://mob.tscn
 res://mob.gd
+res://gun.gd
+res://gun.tscn
