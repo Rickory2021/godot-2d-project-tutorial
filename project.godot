@@ -118,9 +118,8 @@ move_down={
 
 [layer_names]
 
-2d_physics/layer_1="Primary"
-2d_physics/layer_2="Enemy"
 3d_physics/layer_2="player"
+2d_physics/main_scene="uid://c1sx7bic4uhdj"
 
 [rendering]
 
