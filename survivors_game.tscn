@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://swcb8q32cvqi"]
 
 [ext_resource type="PackedScene" uid="uid://c1sx7bic4uhdj" path="res://player.tscn" id="1_3cish"]
+[ext_resource type="PackedScene" uid="uid://y38gte5o0xf8" path="res://mob.tscn" id="3_l26od"]
 [ext_resource type="PackedScene" uid="uid://dq3r015sr1uql" path="res://pine_tree.tscn" id="3_qqaft"]
 
 [node name="Game" type="Node2D" unique_id=1220307206]
@@ -32,3 +33,12 @@ position = Vector2(1366, 476)
 
 [node name="PineTree6" parent="." unique_id=1219571323 instance=ExtResource("3_qqaft")]
 position = Vector2(1311, 758)
+
+[node name="Mob" parent="." unique_id=1624493223 instance=ExtResource("3_l26od")]
+position = Vector2(419, 723)
+
+[node name="Mob2" parent="." unique_id=1477714736 instance=ExtResource("3_l26od")]
+position = Vector2(1091, 275)
+
+[node name="Mob3" parent="." unique_id=1037212753 instance=ExtResource("3_l26od")]
+position = Vector2(1121, 834)
