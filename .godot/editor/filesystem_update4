@@ -6,3 +6,5 @@ res://mob.tscn
 res://mob.gd
 res://gun.gd
 res://gun.tscn
+res://bullet.gd
+res://bullet.tscn
